@@ -6,4 +6,6 @@ Repro steps:
  - Notice the migrations tool attempts to alter the `FromCurrency` and `TwoCurrency`
  - ... repeat
  
- 
+EF core issue tracker:
+
+https://github.com/aspnet/EntityFrameworkCore/issues/11343
